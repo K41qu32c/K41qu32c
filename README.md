@@ -1,4 +1,5 @@
-Boas vindas ao meu perfil!! 
+Bem vindo(a) ao meu perfil!! 
+
 Meu nome é Kaique Rodrigues Gonçalves
 
 -Estou estudando na Alura
